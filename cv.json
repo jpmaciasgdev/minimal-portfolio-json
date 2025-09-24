@@ -1,0 +1,132 @@
+{
+  "basics": {
+    "name": "Juan Macias",
+    "label": "Técnico en Mantenimiento de Equipo y Computo",
+    "image": "https://avatars.githubusercontent.com/u/139438237?v=4",
+    "email": "jpmaciasg@gmail.com",
+    "phone": "3503730676",
+    "location": {
+      "address": "Cra 105f bis #72-64",
+      "city": "Bogotá D.C",
+      "countryCode": "CO",
+      "region": "Colombia"
+    },
+    "summary": "Técnico en mantenimiento de equipos de cómputo con disposición de aprendizaje y habilidades en mantenimiento correctivo y preventivo. Cuento con conocimientos básicos en programación HTML y JAVA. Me considero una persona honesta, tolerable, paciente y con gran rapidez para aprender. Actualmente en el 5º semestre de ingeniería de sistemas, busco aplicar mis conocimientos para beneficiar a la organización y desarrollarme profesionalmente."
+  },
+  "work": [
+    {
+      "name": "Publimetro S.A.S",
+      "position": "Asistente IT",
+      "startDate": "2021-02-01",
+      "endDate": "2021-08-01",
+      "summary": "Mantenimiento correctivo y preventivo, control de inventarios, perfilación de equipos, manejo de equipos en el dominio, soporte a usuario, conexiones VPN, conexiones de carpetas de red, manejo y control de insumos de impresora, manejo de sistemas operativos como Windows y MacOS."
+    },
+    {
+      "name": "Document and Document S.A.S",
+      "position": "Auxiliar de sistemas",
+      "startDate": "2022-03-01",
+      "endDate": "2023-06-01",
+      "summary": "Mantenimiento correctivo y preventivo, control de inventarios, perfilación de equipos, soporte a usuario presencial como remoto, conexiones VPN, conexiones de carpetas de red, manejo y control de insumos de impresoras de tinta y tóner, manejo de sistemas operativos, configuraciones de red, control y monitoreo de cámaras de vigilancia, mantenimiento de diferentes scanner (Kodak, Alaris y Fujitsu). Manejo y configuración de diferentes servidores (Ubuntu Server, Windows Server y TrueNAS) y administración del tenant empresarial junto con sus aplicaciones en Microsoft 365 (SharePoint y ofimática office)."
+    },
+    {
+      "name": "Servimos S.A.S",
+      "position": "Asistente de Tecnología",
+      "startDate": "2023-08-01",
+      "endDate": "2023-10-01",
+      "summary": "Mantenimiento correctivo, mantenimiento preventivo, control de inventarios, perfilación de equipos, soporte a usuario presencial como remoto, conexiones VPN, conexiones de carpetas de red, manejo y control de insumos de impresoras de tinta y tóner, manejo de sistemas operativos, configuraciones de red, control y monitoreo de cámaras de vigilancia, creación de scripts en lenguaje Python, automatización de informes con Power Automate, Consultas SQL para entrega de informes, manejo del aplicativo Novasoft ERP, Respaldo de información mediante diferentes aplicativos."
+    },
+    {
+      "name": "World Office",
+      "position": "Asesor soporte técnico",
+      "startDate": "2023-11-01",
+      "endDate": "2025-07-01",
+      "summary": "Soporte técnico en la aplicación e instalación asi como correcciones de diferentes fallas en el software en distintos aplicativos de conexión remota, consultas sql, configuraciones remotas correcciones de ofimática office, respaldo de información, atención al cliente, consultas SQL, manejo de base de datos diagnostico y mantenimientos correctivos del sistema operativo, realizar informes de incidentes, configuración de impresoras, código de barras, configuración de correos por método SMTP para envíos."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Liceo el Gran virrey",
+      "area": "Secundaria",
+      "studyType": "Bachiller",
+      "startDate": "2014-01-01",
+      "endDate": "2016-12-31"
+    },
+    {
+      "institution": "Colegio Instituto Técnico Distrital Juan Del Corral IED",
+      "area": "Secundaria Media",
+      "studyType": "Bachiller Técnico con Especialidad en Gestión Contable y Financiera",
+      "startDate": "2017-01-01",
+      "endDate": "2018-12-31"
+    },
+    {
+      "institution": "Politécnico De Colombia",
+      "studyType": "Diplomado en Programación Java",
+      "startDate": "2020-01-01",
+      "endDate": "2020-12-31"
+    },
+    {
+      "institution": "Cencanbo",
+      "studyType": "Técnico",
+      "startDate": "2020-01-01",
+      "endDate": "2021-12-31"
+    },
+    {
+      "institution": "Fundación Universitaria San Mateo",
+      "area": "Ingeniería de Sistemas",
+      "studyType": "Universidad",
+      "startDate": "2022-01-01"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programación",
+      "keywords": [
+        "HTML",
+        "JAVA",
+        "Python",
+        "SQL"
+      ]
+    },
+    {
+      "name": "Sistemas Operativos",
+      "keywords": [
+        "Windows",
+        "MacOS",
+        "Ubuntu Server",
+        "Windows Server"
+      ]
+    },
+    {
+      "name": "Ofimática",
+      "keywords": [
+        "Microsoft 365",
+        "Power Automate",
+        "Excel"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Inglés",
+      "fluency": "B1 intermedio"
+    }
+  ],
+  "references": [
+    {
+      "name": "Daniel Nicolas Currea Salazar",
+      "reference": "Analista Comercial, Distribuidora CVAS, 300 57693682"
+    },
+    {
+      "name": "Paula Andrea Fonseca Chávez",
+      "reference": "Auxiliar Contable, Autoservicio Mecánico S.A.S, 3144484103"
+    },
+    {
+        "name": "Fredy Andrés Macias Garzón",
+        "reference": "Asistente Comercial, Alianza Fiduciaria, 3003074562"
+      },
+      {
+        "name": "Jhon Roosevelt Garzón Olarte",
+        "reference": "Auxiliar Administrativo, Secretaria Distrital de Gobierno, 3204898465"
+      }
+  ]
+}
