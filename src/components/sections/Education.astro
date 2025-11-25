@@ -1,6 +1,23 @@
 ---
  import Section from '@/components/Section.astro';
+ import {education} from '@cv'
 ---
 <Section title="Educación">
+    <ul>
+        {
+            education.map(({institution,area,studyType,startDate,endDate})=>{
+                const starYear = new Date(startDate).getFullYear();
+                const endYear = endDate != null ? new Date(endDate).getFullYear(): "Actual";
+                return(
+                    <li>
+                        <h3>{institution}</h3>
+                        <h4>{area}</h4>
+                        <p>{studyType} ({starYear} - {endYear})</p>
+                    </li>
 
+                )
+                
+            })
+        }
+    </ul>
 </Section>
