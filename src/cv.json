@@ -27,18 +27,12 @@
   },
   "work": [
     {
-      "name": "Publimetro S.A.S",
-      "position": "Asistente IT",
-      "startDate": "2021-02-08",
-      "endDate": "2021-08-09",
-      "summary": "Mantenimiento correctivo y preventivo, control de inventarios, perfilación de equipos, manejo de equipos en el dominio, soporte a usuario, conexiones VPN, conexiones de carpetas de red, manejo y control de insumos de impresora, manejo de sistemas operativos como Windows y MacOS."
-    },
-    {
-      "name": "Document and Document S.A.S",
-      "position": "Auxiliar de sistemas",
-      "startDate": "2022-03-12",
-      "endDate": "2023-06-15",
-      "summary": "Mantenimiento correctivo y preventivo, control de inventarios, perfilación de equipos, soporte a usuario presencial como remoto, conexiones VPN, conexiones de carpetas de red, manejo y control de insumos de impresoras de tinta y tóner, manejo de sistemas operativos, configuraciones de red, control y monitoreo de cámaras de vigilancia, mantenimiento de diferentes scanner (Kodak, Alaris y Fujitsu). Manejo y configuración de diferentes servidores (Ubuntu Server, Windows Server y TrueNAS) y administración del tenant empresarial junto con sus aplicaciones en Microsoft 365 (SharePoint y ofimática office)."
+      "name": "World Office",
+      "position": "Asesor soporte técnico",
+      "startDate": "2023-11-07",
+      "endDate": "2025-07-30",
+      "summary": "Soporte técnico en la aplicación e instalación asi como correcciones de diferentes fallas en el software en distintos aplicativos de conexión remota, consultas sql, configuraciones remotas correcciones de ofimática office, respaldo de información, atención al cliente, consultas SQL, manejo de base de datos diagnostico y mantenimientos correctivos del sistema operativo, realizar informes de incidentes, configuración de impresoras, código de barras, configuración de correos por método SMTP para envíos."
+
     },
     {
       "name": "Servimos S.A.S",
@@ -48,11 +42,18 @@
       "summary": "Mantenimiento correctivo, mantenimiento preventivo, control de inventarios, perfilación de equipos, soporte a usuario presencial como remoto, conexiones VPN, conexiones de carpetas de red, manejo y control de insumos de impresoras de tinta y tóner, manejo de sistemas operativos, configuraciones de red, control y monitoreo de cámaras de vigilancia, creación de scripts en lenguaje Python, automatización de informes con Power Automate, Consultas SQL para entrega de informes, manejo del aplicativo Novasoft ERP, Respaldo de información mediante diferentes aplicativos."
     },
     {
-      "name": "World Office",
-      "position": "Asesor soporte técnico",
-      "startDate": "2023-11-07",
-      "endDate": "2025-07-30",
-      "summary": "Soporte técnico en la aplicación e instalación asi como correcciones de diferentes fallas en el software en distintos aplicativos de conexión remota, consultas sql, configuraciones remotas correcciones de ofimática office, respaldo de información, atención al cliente, consultas SQL, manejo de base de datos diagnostico y mantenimientos correctivos del sistema operativo, realizar informes de incidentes, configuración de impresoras, código de barras, configuración de correos por método SMTP para envíos."
+      "name": "Document and Document S.A.S",
+      "position": "Auxiliar de sistemas",
+      "startDate": "2022-03-12",
+      "endDate": "2023-06-15",
+      "summary": "Mantenimiento correctivo y preventivo, control de inventarios, perfilación de equipos, soporte a usuario presencial como remoto, conexiones VPN, conexiones de carpetas de red, manejo y control de insumos de impresoras de tinta y tóner, manejo de sistemas operativos, configuraciones de red, control y monitoreo de cámaras de vigilancia, mantenimiento de diferentes scanner (Kodak, Alaris y Fujitsu). Manejo y configuración de diferentes servidores (Ubuntu Server, Windows Server y TrueNAS) y administración del tenant empresarial junto con sus aplicaciones en Microsoft 365 (SharePoint y ofimática office)."
+    },
+    {
+      "name": "Publimetro S.A.S",
+      "position": "Asistente IT",
+      "startDate": "2021-02-08",
+      "endDate": "2021-08-09",
+      "summary": "Mantenimiento correctivo y preventivo, control de inventarios, perfilación de equipos, manejo de equipos en el dominio, soporte a usuario, conexiones VPN, conexiones de carpetas de red, manejo y control de insumos de impresora, manejo de sistemas operativos como Windows y MacOS."
     }
   ],
   "education": [
@@ -69,13 +70,7 @@
       "studyType": "Bachiller Técnico con Especialidad en Gestión Contable y Financiera",
       "startDate": "2017-01-01",
       "endDate": "2018-12-31"
-    },
-    {
-      "institution": "Politécnico De Colombia",
-      "studyType": "Diplomado en Programación Java",
-      "startDate": "2020-01-01",
-      "endDate": "2020-12-31"
-    },
+    }, 
     {
       "institution": "Cencanbo",
       "studyType": "Técnico",
@@ -92,16 +87,25 @@
   ],
   "skills": [
     {
-      "name": "Programación",
+      "name": "HTML",
       "keywords": [
         "HTML",
-        "JAVA",
-        "Python",
-        "SQL"
+        "",
+        "",
+        ""
       ]
     },
     {
-      "name": "Sistemas Operativos",
+      "name": "JavaScript",
+      "keywords": [
+        "HTML",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "JAVA",
       "keywords": [
         "Windows",
         "MacOS",
@@ -110,7 +114,47 @@
       ]
     },
     {
-      "name": "Ofimática",
+      "name": "Python/Django",
+      "keywords": [
+        "Microsoft 365",
+        "Power Automate",
+        "Excel"
+      ]
+    },
+    {
+      "name": "SQL",
+      "keywords": [
+        "Microsoft 365",
+        "Power Automate",
+        "Excel"
+      ]
+    },
+    {
+      "name": "M365",
+      "keywords": [
+        "Microsoft 365",
+        "Power Automate",
+        "Excel"
+      ]
+    },
+    {
+      "name": "Sistemas Operativos",
+      "keywords": [
+        "Microsoft 365",
+        "Power Automate",
+        "Excel"
+      ]
+    },
+    {
+      "name": "Mantenimiento correctivo",
+      "keywords": [
+        "Microsoft 365",
+        "Power Automate",
+        "Excel"
+      ]
+    },
+    {
+      "name": "Mantenimiento preventivo",
       "keywords": [
         "Microsoft 365",
         "Power Automate",
